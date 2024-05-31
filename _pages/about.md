@@ -10,7 +10,7 @@ redirect_from:
 
 <br>
 
-I pursue my __PhD in Experimental Finance__ at Radboud University, the Netherlands, which I expect to complete in July 2024.
+I am a __Postdoctoral Researcher__ at Montpellier Business School, France.
 
 My research delves into the economic behavior of individuals in the fields of:
 * Risk Perception
