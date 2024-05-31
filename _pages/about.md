@@ -13,9 +13,9 @@ redirect_from:
 I am a __Postdoctoral Researcher__ at Montpellier Business School, France.
 
 My research delves into the economic behavior of individuals in the fields of:
+* Sustainable Finance
 * Risk Perception
 * Intertemporal Choice
-* Household Finance
 * Asset Pricing
 
 Check out my published work "History Matters: How short-term price charts hurt investment performance" (Journal of Banking & Finance) and other projects under [Research](https://markusstrucks.github.io//research/).
