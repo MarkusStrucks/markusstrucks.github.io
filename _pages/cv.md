@@ -13,6 +13,7 @@ redirect_from:
 
 Academic Positions
 ======
+* 2024 -- 2026: Postdoctoral Researcher at Montpellier Business School
 * June 2023: Visiting Scholar at University of Innsbruck (AT)
 * 2018 -- 2024: PhD Candidate in Experimental Finance, Radboud University (NL)
 * 2017 -- 2018: Research and Teaching Assistant in Financial Economics, Radboud University (NL)
@@ -26,7 +27,7 @@ Education
 Skills
 ======
 * Design of Experiments (RCTs)
-* Quantitative Data Analysis: R, Stata
+* Quantitative Data Analysis: R, Stata, SAS
 * Programming: Python, JavaScript
 * Markup Language: HTML, LaTeX, (R)Markdown
 
@@ -46,5 +47,5 @@ Teaching
 Service
 ======
 <!--- * Social Media Manager at the Society for Experimental Finance --->
-* Reviewer for the Journal of Behavioral and Experimental Finance
+* Reviewer for the Journal of Economic Behavior and Organization and for the Journal of Behavioral and Experimental Finance 
 * Former board member of the PhD Organization Nijmegen (2019-2020)
