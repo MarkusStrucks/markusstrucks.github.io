@@ -40,12 +40,10 @@ jobs:
         env:
           JEKYLL_ENV: production
 
-      - name: Upload artifact
-        uses: actions/upload-artifact@v4
+      - name: Upload GitHub Pages artifact
+        uses: actions/upload-pages-artifact@v1
         with:
-          name: my-artifact
-          path: ./path-to-artifact
-
+          path: ./_site
 
   deploy:
     environment:
