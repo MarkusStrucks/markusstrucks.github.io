@@ -27,9 +27,9 @@ Education
 Skills
 ======
 * Design of Experiments (RCTs)
-* Quantitative Data Analysis: R, Stata, SAS
+* Quantitative Data Analysis: R, Python, Stata, SAS
 * Programming: Python, JavaScript
-* Markup Language: HTML, LaTeX, (R)Markdown
+* Markup Language: HTML, LaTeX
 
 Research
 ======
