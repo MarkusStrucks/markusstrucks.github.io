@@ -10,7 +10,7 @@ redirect_from:
 
 <br>
 
-I am a __Postdoctoral Researcher__ at Montpellier Business School, France.
+I am a __Postdoctoral Researcher__ at MBS School of Business, France.
 
 My research delves into the economic behavior of individuals in the fields of:
 * Sustainable Finance
@@ -18,7 +18,7 @@ My research delves into the economic behavior of individuals in the fields of:
 * Intertemporal Choice
 * Asset Pricing
 
-Check out my job market paper [Beyond the Basket: Are Sustainable Investment and Sustainable Consumption Substitutes?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7540358) on SSRN! 
+Check out my job market paper [Beyond the Basket: Are Sustainable Investing and Sustainable Consumption Substitutes?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7540358) on SSRN! 
 
 Read more about my research under [Research](https://markusstrucks.github.io//research/).
 Under [Teaching](https://markusstrucks.github.io//teaching/), you can find more information about my experience in course coordination, lecturing and supervision.
