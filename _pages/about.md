@@ -18,7 +18,7 @@ My research delves into the economic behavior of individuals in the fields of:
 * Intertemporal Choice
 * Asset Pricing
 
-Check out our study [Consequences of Narrow Framing for Risk-Taking: A Stress Test of Myopic Loss Aversion](https://pubsonline.informs.org/doi/10.1287/mnsc.2024.05720) (with R. Schwaiger und S. Zeisberger) in __Management Science__! 
+Check out my job market paper [Beyond the Basket: Are Sustainable Investment and Sustainable Consumption Substitutes?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7540358) on SSRN! 
 
 Read more about my research under [Research](https://markusstrucks.github.io//research/).
 Under [Teaching](https://markusstrucks.github.io//teaching/), you can find more information about my experience in course coordination, lecturing and supervision.
